@@ -10,26 +10,6 @@ ul {
     padding: 0;
 }
 
-h1,
-h2,
-h3,
-p {
-    margin: 0;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-button {
-    cursor: pointer;
-}
-
-img {
-    display: block;
-}
-
-address {
-    font-style: normal;
+.features-title {
+    text-transform: capitalize;
 }
