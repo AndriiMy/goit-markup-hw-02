@@ -4,20 +4,22 @@
 }
 
 .hero-title {
-    color: #ffffff;
     font-size: 56px;
+    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
 .hero-button {
-    background-color: #4d5ae5;
-    color: #ffffff;
-    font-weight: 500;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    border: none;
+    color: #ffffff;
+    background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 .hero-button:hover,
